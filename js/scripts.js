@@ -1,4 +1,6 @@
-// Everything OK?
 console.log('OK');
 
-// Your Awesome Scripts
+// Click Event//
+//$('#smoke').on('click', function() {
+   // $(this).toggleClass('clicked');
+//});
